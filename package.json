@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=/hugs-for-bugs/",
+    "build": "vite build --base=/js-101-aitmil/",
     "preview": "vite preview"
   },
   "devDependencies": {
